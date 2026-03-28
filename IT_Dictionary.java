@@ -465,8 +465,11 @@ public class IT_Dictionary {
         data[432] = "Zip: A commonly used type of software that creates a compressed version of a file to reduce the space it takes up during storage and transmission.";
         data[433] = "ZIP Drive: A high capacity floppy disk drive from Iomega Corporation; the disks it uses are a little bit larger than a conventional diskette and are capable of holding 100 MB or 250 MB of data.";
         data[434] = "Zone file: Provides information about one or more domain names, including a list of DNS records. Zone files define the IP address of a domain name and contain DNS and mail server information.";
-        data[435] = "Zoom: The act of enlarging a portion of an onscreen image for fine detail work; most graphics programs have this capability.";
-        data[436] = "ZTNA: Zero Trust Network Access or ZTNA is a security framework that requires all users - in or outside the organization’s network - to be authenticated, authorized, and continuously validated for security configuration and posture before being granted or keeping access to data and applications.";
+        data[435] = "Zone transfer: The process of copying DNS records from one DNS server to another.";
+        data[436] = "Zoning: A storage management method that controls access to data in a storage area network.";
+        data[437] = "Zonal Isolaation:  A cloud architecture approach that separates resources into zones for better fault tolerance.";
+        data[438] = "Zoom: The act of enlarging a portion of an onscreen image for fine detail work; most graphics programs have this capability.";
+        data[439] = "ZTNA: Zero Trust Network Access or ZTNA is a security framework that requires all users - in or outside the organization’s network - to be authenticated, authorized, and continuously validated for security configuration and posture before being granted or keeping access to data and applications.";
 
         //kani para sa word of the day feature by mendez pee jay..
         // gi generate ang word of the day once sa first run, random index gikan sa data array
